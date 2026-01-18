@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "CCG Prize"
+permalink: /ccgprize/
 author_profile: true
 redirect_from:
   - /resume

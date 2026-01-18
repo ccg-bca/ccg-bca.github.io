@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "CCG"
+  name             : ""
   avatar           : "ccg.png"
-  bio              : "CCG of the British Crystallography Association"
+  bio              : "Part of the British Crystallography Association"
   location         : "United Kingdom"
   # employer         :
   # googlescholar    : "http://yourfullgooglescholarurl.com"

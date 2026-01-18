@@ -12,7 +12,7 @@ The Chemical Crystallography Group (CCG) aims to promote and support the activit
 
 In addition, we award an annual Young Crystallographer Prize, sponsored by the Cambridge Structural Database. 
 
-[//]: # A data-driven personal website
-[//]: # ======
 
+
+<img src="../images/adam.jpg" width="">
 

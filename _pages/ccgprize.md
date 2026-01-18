@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CCG Prize"
+title: "The CCDC Chemical Crystallography Prize for Younger Scientists "
 permalink: /ccgprize/
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-# The CCDC Chemical Crystallography Prize for Younger Scientists 
 
 The CCDC Prize is sponsored by the Cambridge Crystallographic Data Centre and is awarded annually to an outstanding early career researcher who has made significant contribution to chemical crystallography and its community.
 

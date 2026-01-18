@@ -35,5 +35,5 @@ The nomination form can be found: [NOMINATION FORM](/doc/CCG-CCDC_Nomination-202
 •	The nominee must be available to present their work at Prize lecture session of the BCA Spring Meeting in Leeds, which runs from Monday 30 March 2026 – Wednesday 1 April 2026, otherwise they will be considered ineligible for the Prize.
 
 
-
-(images/alice.jpg)
+### Further Questions
+If you have further questions about the Prize, please contact the CCG Committee Chair, Dr Hamish Yeung (email: chair@ccg.crystallography.org.uk).

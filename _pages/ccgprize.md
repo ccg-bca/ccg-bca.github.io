@@ -25,7 +25,7 @@ Proposers are typically those with expertise in the field that allows them to co
 
 The nomination form, accompanied by .pdf copies of up to three publications upon which the nomination is based, should be returned to the Secretary-Treasurer of the CCG, Dr Louise Male (email: secretary_treasurer@ccg.crystallography.org.uk).
 
-The nomination form can be found: [NOMINATION FORM](/doc/nomination_ccg.pdf)
+The nomination form can be found: [NOMINATION FORM](/doc/CCG-CCDC_Nomination-2026.docx)
 
 ### Eligibility
 •	Scientists nominated for the Prize shall be not more than 35 years of age on 1st January of the award year, except that up to five additional years may be allowed if there has been a significant career break during which the nominee was unable to carry out research.

@@ -16,6 +16,6 @@ Further information and registration can be done <a href="https://registrations.
 
 
 
-<img src="./images/BCA_2026.jpg" width="">
+<img src="../images/BCA_2026.jpg" width="">
 
 

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to the Chemical Crystallography Group (CCG) of the British Crystallography Association (BCA)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

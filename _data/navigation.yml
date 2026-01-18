@@ -15,8 +15,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "CCG Prize"
+    url: /ccgprize/
     
   - title: "Guide"
     url: /markdown/

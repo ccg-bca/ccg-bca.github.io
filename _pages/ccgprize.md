@@ -42,12 +42,12 @@ If you have further questions about the Prize, please contact the CCG Committee 
 
 
 ### Previous Winners
-2025 (Leeds) – Dr Wojciech Stawski, University of Ulm
-2024 (Leeds) – Dr Patrick Doheny, University of Birmingham
-2023 (Sheffield) – Dr Lucy Saunders, Diamond Light Source
-2022 (Leeds) – Dr Hamish H-M Yeung, University of Birmingham
-2021 (Online) – Dr Charlie McMonagle, ESRF, The European Synchrotron
-2020 (Online**) – Dr Karen Robertson, University of Nottingham
+* 2025 (Leeds) – Dr Wojciech Stawski, University of Ulm
+* 2024 (Leeds) – Dr Patrick Doheny, University of Birmingham
+* 2023 (Sheffield) – Dr Lucy Saunders, Diamond Light Source
+* 2022 (Leeds) – Dr Hamish H-M Yeung, University of Birmingham
+* 2021 (Online) – Dr Charlie McMonagle, ESRF, The European Synchrotron
+* 2020 (Online**) – Dr Karen Robertson, University of Nottingham
 2019 (Stevenage*) – Dr Sihai Yang, University of Manchester
 2018 (Warwick) – Dr Claire L. Hobday, University of Bath
 2017 (Lancaster) – Dr Lauren E. Hatcher, University of Bath

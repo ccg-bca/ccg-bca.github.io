@@ -48,23 +48,23 @@ If you have further questions about the Prize, please contact the CCG Committee 
 * 2022 (Leeds) – Dr Hamish H-M Yeung, University of Birmingham
 * 2021 (Online) – Dr Charlie McMonagle, ESRF, The European Synchrotron
 * 2020 (Online**) – Dr Karen Robertson, University of Nottingham
-2019 (Stevenage*) – Dr Sihai Yang, University of Manchester
-2018 (Warwick) – Dr Claire L. Hobday, University of Bath
-2017 (Lancaster) – Dr Lauren E. Hatcher, University of Bath
-2016 (Nottingham) – Dr Mark R. Warren, Diamond Light Source
-2015 (York) – Dr Nick P. Funnell, University of Oxford
-2014 (Loughborough) – Dr Lynne H. Thomas, University of Bath
-2013 – No BCA Spring Meeting & no prize awarded
-2012 (Warwick) – Dr Gareth O. Lloyd, University of Cambridge
-2011 (Keele) – Dr Peter A. Wood, CCDC
-2010 (Warwick) – Dr Stephen A. Moggach, University of Edinburgh
-2009 (Loughborough) – Dr Hazel A. Sparkes, University of Durham
-2008 (York) – Dr Kirsty M. Anderson, University of Durham
-2007 (Canterbury) – Dr Andrew Parkin, University of Glasgow
-2006 (Lancaster) – Dr Graeme M. Day, University of Cambridge
-2005 (Loughborough) – Dr Anders J. Markvardsen, Rutherford Appleton Laboratory
-2004 (Manchester) – Dr Maryjane Tremayne, University of Birmingham
-2003 (York) – Dr Ivana Radosavljevic Evans, University of Durham
-2002 (Nottingham) – Dr David R. Allan, University of Edinburgh
-2001 (Reading) – Dr Claire Wilson, University of Nottingham
-2000 (Heriot-Watt Univ., Edinburgh) – Dr Jacqueline M. Cole, University of Cambridge
+* 2019 (Stevenage*) – Dr Sihai Yang, University of Manchester
+* 2018 (Warwick) – Dr Claire L. Hobday, University of Bath
+* 2017 (Lancaster) – Dr Lauren E. Hatcher, University of Bath
+* 2016 (Nottingham) – Dr Mark R. Warren, Diamond Light Source
+* 2015 (York) – Dr Nick P. Funnell, University of Oxford
+* 2014 (Loughborough) – Dr Lynne H. Thomas, University of Bath
+* 2013 – No BCA Spring Meeting & no prize awarded
+* 2012 (Warwick) – Dr Gareth O. Lloyd, University of Cambridge
+* 2011 (Keele) – Dr Peter A. Wood, CCDC
+* 2010 (Warwick) – Dr Stephen A. Moggach, University of Edinburgh
+* 2009 (Loughborough) – Dr Hazel A. Sparkes, University of Durham
+* 2008 (York) – Dr Kirsty M. Anderson, University of Durham
+* 2007 (Canterbury) – Dr Andrew Parkin, University of Glasgow
+* 2006 (Lancaster) – Dr Graeme M. Day, University of Cambridge
+* 2005 (Loughborough) – Dr Anders J. Markvardsen, Rutherford Appleton Laboratory
+* 2004 (Manchester) – Dr Maryjane Tremayne, University of Birmingham
+* 2003 (York) – Dr Ivana Radosavljevic Evans, University of Durham
+* 2002 (Nottingham) – Dr David R. Allan, University of Edinburgh
+* 2001 (Reading) – Dr Claire Wilson, University of Nottingham
+* 2000 (Heriot-Watt Univ., Edinburgh) – Dr Jacqueline M. Cole, University of Cambridge

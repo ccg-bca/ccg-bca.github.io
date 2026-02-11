@@ -15,7 +15,7 @@ The CCDC Prize was created by the CCDC and the Chemical Crystallography Group (C
 
 
 ### Call for nominations for the 2025-26 Prize
-The call for nominations for the 2026 Prize is open from Monday 1 December 2025 until 12:00 (GMT) on Friday 30 January 2026. Self-nominations are permitted.
+The call for nominations for the 2026 Prize is open from Monday 1 December 2025 until 12:00 (GMT) on Friday 13 February 2026. Self-nominations are permitted.
 
 
 ### Nomination Guidelines

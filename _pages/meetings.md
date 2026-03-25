@@ -19,3 +19,6 @@ Further information and registration details can be found <a href="https://regis
 <img src="../images/BCA_2026.jpg" width="">
 
 
+
+## CCG AGM at the 2026 BCA
+If you are attending the 2026 CCG AGM you can access the agenda and previous meeting minutes <a href="https://bham-my.sharepoint.com/personal/a_a_l_michalchuk_bham_ac_uk/_layouts/15/guestaccess.aspx?share=IgBwPUeuCyGDTIixP2esRVXqAbzUh-09l8n897x-JS1Yt90&e=BFlLMr"> here </a>

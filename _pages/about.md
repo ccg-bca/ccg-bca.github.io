@@ -14,5 +14,5 @@ In addition, we award an annual Young Crystallographer Prize, sponsored by the C
 
 
 
-<img src="./images/BCA_2026.jpg" width="">
+<img src="./images/BCA_2027.jpg" width="">
 

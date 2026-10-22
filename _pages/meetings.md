@@ -11,6 +11,9 @@ author_profile: true
 
 <img src="../images/ccg_autumn_2026.png" width="">
 
+
+
+
 ## Registration is open for 2027 British Crystallography Meeting
 Registration and abstract submission is now open for the 2026 British Crystallography Association annual meeting, held at the University of York from 22 March - 24 March 2027. We are delighted to welcome <a href="https://www.durham.ac.uk/staff/jon-steed/"> Prof Jon Steed (University of Durham)</a> as the CCG Plenary Speaker!
 

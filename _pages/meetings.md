@@ -8,15 +8,15 @@ author_profile: true
 {% include base_path %}
 
 ## Registration is open for 2026 British Crystallography Meeting
-Registration and abstract submission is now open for the 2026 British Crystallography Association annual meeting, held at the University of Leeds from 30 March - 1 Apr 2026. 
+Registration and abstract submission is now open for the 2026 British Crystallography Association annual meeting, held at the University of York from 22 March - 24 March 2027. We are delighted to welcome <a href "https://www.durham.ac.uk/staff/jon-steed/"> Prof Jon Steed (University of Durham)</a> as the CCG Plenary Speaker!
 
-Further information and registration details can be found <a href="https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=135312&eventID=337&redirecting=1&CSPCHD=001001000000EVnZTds14Nf1wezXyYKQ83xbJoS3pzE2NqO5LM">
+Further information and registration details can be found <a href="https://hg3.co.uk/bca/">
   <span style="color: red;">here</span>
 </a>
 
 
 
-<img src="../images/BCA_2026.jpg" width="">
+<img src="../images/BCA_2027_Banner.png" width="">
 
 
 

@@ -14,8 +14,8 @@ The CCDC Prize is sponsored by the Cambridge Crystallographic Data Centre and is
 The CCDC Prize was created by the CCDC and the Chemical Crystallography Group (CCG) of the British Crystallographic Association (BCA) in 2000 with the aim to ‘inspire and recognize excellence in crystallographic research coming from early career scientists in the UK’. The prize is awarded for original research in the field of chemical crystallography or the application of crystallographic information to structural chemistry, including advances in instrumental, experimental, theoretical or computational techniques that contribute to this field. 
 
 
-### Call for nominations for the 2025-26 Prize
-The call for nominations for the 2026 Prize is open from Monday 1 December 2025 until 12:00 (GMT) on Friday 13 February 2026. Self-nominations are permitted.
+### Call for nominations for the 2026-27 Prize
+The call for nominations for the 2027 Prize is open until Monday 29 Jan 2027 until 12:00 (GMT). Self-nominations are permitted.
 
 
 ### Nomination Guidelines

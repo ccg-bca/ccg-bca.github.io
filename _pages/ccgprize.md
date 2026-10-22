@@ -42,6 +42,7 @@ If you have further questions about the Prize, please contact the CCG Committee 
 
 
 ### Previous Winners
+* 2026 (Leeds) - Dr Sam Lewis, University of Cardiff
 * 2025 (Leeds) – Dr Wojciech Stawski, University of Ulm
 * 2024 (Leeds) – Dr Patrick Doheny, University of Birmingham
 * 2023 (Sheffield) – Dr Lucy Saunders, Diamond Light Source

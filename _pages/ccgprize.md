@@ -32,7 +32,7 @@ The nomination form can be found: [NOMINATION FORM](/doc/CCG-CCDC_Prize_Nominati
 
 •	The nominee must either be from the United Kingdom or have carried out the majority of their research in an establishment in the UK.
 
-•	The nominee must be available to present their work at Prize lecture session of the BCA Spring Meeting in Leeds, which runs from Monday 30 March 2026 – Wednesday 1 April 2026, otherwise they will be considered ineligible for the Prize.
+•	The nominee must be available to present their work at Prize lecture session of the BCA Spring Meeting in York, which runs from Monday 22 March 2026 – Wednesday 24 March 2027, otherwise they will be considered ineligible for the Prize.
 
 
 ### Further Questions
